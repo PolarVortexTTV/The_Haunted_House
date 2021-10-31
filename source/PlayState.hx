@@ -920,8 +920,9 @@ class PlayState extends MusicBeatState
 		strumLine = new FlxSprite(0, 50).makeGraphic(FlxG.width, 10);
 		strumLine.scrollFactor.set();
 
-		if (PlayStateChangeables.useDownscroll)
-			strumLine.y = FlxG.height - 165;
+		if(SONG.song != 'Sweep' || SONG.song != 'Escape' || SONG.song != 'Disintegrate' || SONG.song != 'Stitched')
+			if (PlayStateChangeables.useDownscroll)
+				strumLine.y = FlxG.height - 165;
 
 		strumLineNotes = new FlxTypedGroup<StaticArrow>();
 		add(strumLineNotes);
@@ -2076,13 +2077,27 @@ class PlayState extends MusicBeatState
 			switch(SONG.song)
 			{
 				case 'Sweep' | 'Escape' | 'Disintegrate' | 'Stitched':
-					if(i == 2 || i == 3)
+					if(PlayStateChangeables.useDownscroll)
 					{
-						babyArrow = new StaticArrow(0, FlxG.height - 165);
+						if(i == 0 || i == 1)
+						{
+							babyArrow = new StaticArrow(0, FlxG.height - (165*4));
+						}
+						else
+						{
+							babyArrow = new StaticArrow(0, strumLine.y);
+						}
 					}
 					else
 					{
-						babyArrow = new StaticArrow(0, strumLine.y);
+						if(i == 2 || i == 3)
+						{
+							babyArrow = new StaticArrow(0, FlxG.height - 165);
+						}
+						else
+						{
+							babyArrow = new StaticArrow(0, strumLine.y);
+						}
 					}
 				default:
 					trace('not one of the selected songs....');
