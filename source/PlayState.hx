@@ -2465,7 +2465,7 @@ class PlayState extends MusicBeatState
 			}
 			case 'Decay':
 			{
-				if((Conductor.songPosition > 135790))
+				if((Conductor.songPosition > 135790 && Conductor.songPosition < 140700))
 				{
 					eventBool = true;
 					if(dad.curCharacter == 'diablo' && !eventExecution)
@@ -2480,6 +2480,10 @@ class PlayState extends MusicBeatState
 						add(diabloFALLING);
 
 					}
+				}
+				else
+				{
+					eventBool = false;
 				}
 			}
 		}
@@ -4239,6 +4243,8 @@ class PlayState extends MusicBeatState
 					PlayState.SONG = Song.conversionChecks(Song.loadFromJson(poop, PlayState.SONG.song));
 					FlxG.sound.music.stop();
 					
+					PlayState.eventBool = false;
+
 					if(curSong == 'Dismiss')
 					{
 						var video:MP4Handler = new MP4Handler();
