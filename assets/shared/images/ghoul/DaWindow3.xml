@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DaWindow3.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Window 30000" x="0" y="0" width="739" height="448"/>
+	<SubTexture name="Window 30001" x="0" y="0" width="739" height="448"/>
+	<SubTexture name="Window 30002" x="739" y="0" width="739" height="448"/>
+	<SubTexture name="Window 30003" x="739" y="0" width="739" height="448"/>
+	<SubTexture name="Window 30004" x="0" y="448" width="739" height="448"/>
+	<SubTexture name="Window 30005" x="0" y="448" width="739" height="448"/>
+	<SubTexture name="Window 30006" x="739" y="448" width="739" height="448"/>
+	<SubTexture name="Window 30007" x="739" y="448" width="739" height="448"/>
+	<SubTexture name="Window 30008" x="0" y="896" width="739" height="448"/>
+	<SubTexture name="Window 30009" x="0" y="896" width="739" height="448"/>
+</TextureAtlas>

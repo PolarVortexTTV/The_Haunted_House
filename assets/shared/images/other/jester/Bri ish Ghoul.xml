@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Bri'ish Ghoul.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ghoul Bop0000" x="0" y="0" width="415" height="360"/>
+	<SubTexture name="Ghoul Bop0001" x="0" y="0" width="415" height="360"/>
+	<SubTexture name="Ghoul Bop0002" x="415" y="0" width="411" height="352" frameX="-3" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0003" x="415" y="0" width="411" height="352" frameX="-3" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0004" x="0" y="360" width="405" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0005" x="405" y="360" width="406" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0006" x="405" y="360" width="406" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0007" x="0" y="360" width="405" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0008" x="0" y="360" width="405" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0009" x="405" y="360" width="406" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0010" x="405" y="360" width="406" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0011" x="0" y="360" width="405" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0012" x="0" y="360" width="405" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0013" x="405" y="360" width="406" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0014" x="405" y="360" width="406" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0015" x="0" y="360" width="405" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0016" x="0" y="360" width="405" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0017" x="405" y="360" width="406" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0018" x="405" y="360" width="406" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0019" x="0" y="360" width="405" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0020" x="0" y="360" width="405" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0021" x="405" y="360" width="406" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0022" x="405" y="360" width="406" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0023" x="0" y="360" width="405" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+	<SubTexture name="Ghoul Bop0024" x="0" y="360" width="405" height="349" frameX="-5" frameY="0" frameWidth="415" frameHeight="360"/>
+</TextureAtlas>

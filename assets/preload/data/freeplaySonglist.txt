@@ -1,0 +1,10 @@
+Tutorial:gf:0
+Resist:voodoo:1
+Sweep:voodoo:1
+Escape:voodoo:1
+Glimpse:diablo:2
+Decay:diablo:2
+Cursed:battered:2
+Wraith:ghoul:3
+Dismiss:ghoul-angry:3
+Agony:soulfire:3

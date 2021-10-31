@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Diablo Falling Apart.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Diablo Fall Apart0000" x="0" y="0" width="753" height="921" frameX="-1" frameY="0" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0001" x="0" y="0" width="753" height="921" frameX="-1" frameY="0" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0002" x="753" y="0" width="738" height="876" frameX="-17" frameY="-45" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0003" x="1491" y="0" width="739" height="876" frameX="-17" frameY="-45" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0004" x="2230" y="0" width="737" height="888" frameX="-17" frameY="-33" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0005" x="2967" y="0" width="738" height="899" frameX="-17" frameY="-22" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0006" x="3705" y="0" width="739" height="924" frameX="-17" frameY="-30" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0007" x="4444" y="0" width="737" height="921" frameX="-17" frameY="-33" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0008" x="5181" y="0" width="752" height="944" frameX="-3" frameY="-22" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0009" x="5933" y="0" width="753" height="936" frameX="-3" frameY="-30" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0010" x="6686" y="0" width="754" height="928" frameX="0" frameY="-33" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0011" x="0" y="944" width="755" height="939" frameX="0" frameY="-22" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0012" x="755" y="944" width="756" height="931" frameX="0" frameY="-30" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0013" x="6686" y="0" width="754" height="928" frameX="0" frameY="-33" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0014" x="0" y="944" width="755" height="939" frameX="0" frameY="-22" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0015" x="755" y="944" width="756" height="931" frameX="0" frameY="-30" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0016" x="6686" y="0" width="754" height="928" frameX="0" frameY="-33" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0017" x="0" y="944" width="755" height="939" frameX="0" frameY="-22" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0018" x="755" y="944" width="756" height="931" frameX="0" frameY="-30" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0019" x="6686" y="0" width="754" height="928" frameX="0" frameY="-33" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0020" x="0" y="944" width="755" height="939" frameX="0" frameY="-22" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0021" x="755" y="944" width="756" height="931" frameX="0" frameY="-30" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0022" x="6686" y="0" width="754" height="928" frameX="0" frameY="-33" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0023" x="0" y="944" width="755" height="939" frameX="0" frameY="-22" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0024" x="755" y="944" width="756" height="931" frameX="0" frameY="-30" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0025" x="6686" y="0" width="754" height="928" frameX="0" frameY="-33" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0026" x="0" y="944" width="755" height="939" frameX="0" frameY="-22" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0027" x="1511" y="944" width="756" height="928" frameX="0" frameY="-33" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0028" x="2267" y="944" width="754" height="939" frameX="0" frameY="-22" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0029" x="3021" y="944" width="763" height="931" frameX="0" frameY="-30" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0030" x="3784" y="944" width="763" height="928" frameX="0" frameY="-33" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0031" x="4547" y="944" width="765" height="939" frameX="0" frameY="-22" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0032" x="5312" y="944" width="765" height="931" frameX="0" frameY="-30" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0033" x="6077" y="944" width="893" height="928" frameX="0" frameY="-33" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0034" x="6970" y="944" width="893" height="928" frameX="0" frameY="-33" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0035" x="0" y="1883" width="937" height="939" frameX="0" frameY="-22" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0036" x="937" y="1883" width="937" height="931" frameX="0" frameY="-30" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0037" x="1874" y="1883" width="944" height="928" frameX="0" frameY="-33" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0038" x="2818" y="1883" width="944" height="939" frameX="0" frameY="-22" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0039" x="3762" y="1883" width="943" height="931" frameX="0" frameY="-30" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0040" x="4705" y="1883" width="943" height="928" frameX="0" frameY="-33" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0041" x="5648" y="1883" width="944" height="939" frameX="0" frameY="-22" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0042" x="6592" y="1883" width="944" height="931" frameX="0" frameY="-30" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0043" x="0" y="2822" width="944" height="928" frameX="0" frameY="-33" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0044" x="944" y="2822" width="944" height="939" frameX="0" frameY="-22" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0045" x="1888" y="2822" width="944" height="931" frameX="0" frameY="-30" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0046" x="2832" y="2822" width="944" height="928" frameX="0" frameY="-33" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0047" x="3776" y="2822" width="944" height="939" frameX="0" frameY="-22" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0048" x="4720" y="2822" width="944" height="926" frameX="0" frameY="-35" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0049" x="4720" y="2822" width="944" height="926" frameX="0" frameY="-35" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0050" x="5664" y="2822" width="944" height="831" frameX="0" frameY="-130" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0051" x="5664" y="2822" width="944" height="831" frameX="0" frameY="-130" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0052" x="6608" y="2822" width="944" height="586" frameX="0" frameY="-375" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0053" x="6608" y="2822" width="944" height="586" frameX="0" frameY="-375" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0054" x="0" y="3761" width="944" height="440" frameX="0" frameY="-545" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0055" x="0" y="3761" width="944" height="440" frameX="0" frameY="-545" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0056" x="944" y="3761" width="944" height="353" frameX="0" frameY="-642" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0057" x="944" y="3761" width="944" height="353" frameX="0" frameY="-642" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0058" x="1888" y="3761" width="944" height="281" frameX="0" frameY="-695" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0059" x="1888" y="3761" width="944" height="281" frameX="0" frameY="-695" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0060" x="2832" y="3761" width="944" height="282" frameX="0" frameY="-695" frameWidth="944" frameHeight="995"/>
+	<SubTexture name="Diablo Fall Apart0061" x="2832" y="3761" width="944" height="282" frameX="0" frameY="-695" frameWidth="944" frameHeight="995"/>
+</TextureAtlas>

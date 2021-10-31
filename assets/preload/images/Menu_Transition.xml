@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu Transition.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="transition instance 10000" x="0" y="0" width="2025" height="1414"/>
+	<SubTexture name="transition instance 10001" x="2025" y="0" width="2025" height="1371" frameX="0" frameY="-22" frameWidth="2025" frameHeight="1414"/>
+	<SubTexture name="transition instance 10002" x="4050" y="0" width="2025" height="1244" frameX="0" frameY="-89" frameWidth="2025" frameHeight="1414"/>
+	<SubTexture name="transition instance 10003" x="6075" y="0" width="2025" height="1231" frameX="0" frameY="-92" frameWidth="2025" frameHeight="1414"/>
+	<SubTexture name="transition instance 10004" x="0" y="1414" width="2025" height="1231" frameX="0" frameY="-92" frameWidth="2025" frameHeight="1414"/>
+	<SubTexture name="transition instance 10005" x="2025" y="1414" width="2025" height="1231" frameX="0" frameY="-92" frameWidth="2025" frameHeight="1414"/>
+	<SubTexture name="transition instance 10006" x="4050" y="1414" width="2025" height="1231" frameX="0" frameY="-92" frameWidth="2025" frameHeight="1414"/>
+	<SubTexture name="transition instance 10007" x="6075" y="1414" width="2025" height="1231" frameX="0" frameY="-92" frameWidth="2025" frameHeight="1414"/>
+	<SubTexture name="transition instance 10008" x="0" y="2645" width="2025" height="1231" frameX="0" frameY="-92" frameWidth="2025" frameHeight="1414"/>
+	<SubTexture name="transition instance 10009" x="0" y="2645" width="2025" height="1231" frameX="0" frameY="-92" frameWidth="2025" frameHeight="1414"/>
+	<SubTexture name="transition instance 10010" x="2025" y="2645" width="2025" height="1231" frameX="0" frameY="-92" frameWidth="2025" frameHeight="1414"/>
+	<SubTexture name="transition instance 10011" x="4050" y="2645" width="2025" height="1231" frameX="0" frameY="-92" frameWidth="2025" frameHeight="1414"/>
+	<SubTexture name="transition instance 10012" x="6075" y="2645" width="2025" height="1231" frameX="0" frameY="-92" frameWidth="2025" frameHeight="1414"/>
+	<SubTexture name="transition instance 10013" x="0" y="3876" width="2025" height="1231" frameX="0" frameY="-92" frameWidth="2025" frameHeight="1414"/>
+	<SubTexture name="transition instance 10014" x="2025" y="3876" width="2025" height="1231" frameX="0" frameY="-92" frameWidth="2025" frameHeight="1414"/>
+</TextureAtlas>

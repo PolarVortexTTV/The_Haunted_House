@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GroundFront.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Ground2 instance 10000" x="0" y="0" width="4130" height="1432" frameX="0" frameY="-105" frameWidth="4130" frameHeight="1537"/>
+	<SubTexture name="Ground2 instance 10001" x="0" y="0" width="4130" height="1432" frameX="0" frameY="-105" frameWidth="4130" frameHeight="1537"/>
+	<SubTexture name="Ground2 instance 10002" x="0" y="1432" width="4130" height="1432" frameX="0" frameY="-105" frameWidth="4130" frameHeight="1537"/>
+	<SubTexture name="Ground2 instance 10003" x="0" y="1432" width="4130" height="1432" frameX="0" frameY="-105" frameWidth="4130" frameHeight="1537"/>
+	<SubTexture name="Ground2 instance 10004" x="0" y="2864" width="4130" height="1433" frameX="0" frameY="-104" frameWidth="4130" frameHeight="1537"/>
+	<SubTexture name="Ground2 instance 10005" x="0" y="2864" width="4130" height="1433" frameX="0" frameY="-104" frameWidth="4130" frameHeight="1537"/>
+	<SubTexture name="Ground2 instance 10006" x="0" y="4297" width="4130" height="1537"/>
+	<SubTexture name="Ground2 instance 10007" x="0" y="4297" width="4130" height="1537"/>
+</TextureAtlas>

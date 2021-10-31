@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GhostNotes.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue ghosted0000" x="0" y="0" width="191" height="268" frameX="-10" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="blue ghosted0001" x="0" y="0" width="191" height="268" frameX="-10" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="blue ghosted0002" x="191" y="0" width="196" height="277" frameX="-7" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="blue ghosted0003" x="191" y="0" width="196" height="277" frameX="-7" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="blue ghosted0004" x="387" y="0" width="207" height="308"/>
+	<SubTexture name="blue ghosted0005" x="387" y="0" width="207" height="308"/>
+	<SubTexture name="blue ghosted0006" x="594" y="0" width="195" height="302" frameX="-8" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="blue ghosted0007" x="594" y="0" width="195" height="302" frameX="-8" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="blue ghosted0008" x="789" y="0" width="198" height="299" frameX="-9" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="blue ghosted0009" x="789" y="0" width="198" height="299" frameX="-9" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="green ghosted0000" x="0" y="308" width="191" height="268" frameX="-10" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="green ghosted0001" x="0" y="308" width="191" height="268" frameX="-10" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="green ghosted0002" x="191" y="308" width="196" height="277" frameX="-7" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="green ghosted0003" x="191" y="308" width="196" height="277" frameX="-7" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="green ghosted0004" x="387" y="308" width="207" height="308"/>
+	<SubTexture name="green ghosted0005" x="387" y="308" width="207" height="308"/>
+	<SubTexture name="green ghosted0006" x="594" y="308" width="195" height="302" frameX="-8" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="green ghosted0007" x="594" y="308" width="195" height="302" frameX="-8" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="green ghosted0008" x="789" y="308" width="198" height="299" frameX="-9" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="green ghosted0009" x="789" y="308" width="198" height="299" frameX="-9" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="purple ghosted0000" x="0" y="616" width="191" height="268" frameX="-10" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="purple ghosted0001" x="0" y="616" width="191" height="268" frameX="-10" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="purple ghosted0002" x="191" y="616" width="196" height="277" frameX="-7" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="purple ghosted0003" x="191" y="616" width="196" height="277" frameX="-7" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="purple ghosted0004" x="387" y="616" width="207" height="308"/>
+	<SubTexture name="purple ghosted0005" x="387" y="616" width="207" height="308"/>
+	<SubTexture name="purple ghosted0006" x="594" y="616" width="195" height="302" frameX="-8" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="purple ghosted0007" x="594" y="616" width="195" height="302" frameX="-8" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="purple ghosted0008" x="789" y="616" width="198" height="299" frameX="-9" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="purple ghosted0009" x="789" y="616" width="198" height="299" frameX="-9" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="red ghosted0000" x="0" y="924" width="191" height="268" frameX="-10" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="red ghosted0001" x="0" y="924" width="191" height="268" frameX="-10" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="red ghosted0002" x="191" y="924" width="196" height="277" frameX="-7" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="red ghosted0003" x="191" y="924" width="196" height="277" frameX="-7" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="red ghosted0004" x="387" y="924" width="207" height="308"/>
+	<SubTexture name="red ghosted0005" x="387" y="924" width="207" height="308"/>
+	<SubTexture name="red ghosted0006" x="594" y="924" width="195" height="302" frameX="-8" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="red ghosted0007" x="594" y="924" width="195" height="302" frameX="-8" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="red ghosted0008" x="789" y="924" width="198" height="299" frameX="-9" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="red ghosted0009" x="789" y="924" width="198" height="299" frameX="-9" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="yellow ghosted0000" x="0" y="1232" width="191" height="268" frameX="-10" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="yellow ghosted0001" x="0" y="1232" width="191" height="268" frameX="-10" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="yellow ghosted0002" x="191" y="1232" width="196" height="277" frameX="-7" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="yellow ghosted0003" x="191" y="1232" width="196" height="277" frameX="-7" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="yellow ghosted0004" x="387" y="1232" width="207" height="308"/>
+	<SubTexture name="yellow ghosted0005" x="387" y="1232" width="207" height="308"/>
+	<SubTexture name="yellow ghosted0006" x="594" y="1232" width="195" height="302" frameX="-8" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="yellow ghosted0007" x="594" y="1232" width="195" height="302" frameX="-8" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="yellow ghosted0008" x="789" y="1232" width="198" height="299" frameX="-9" frameY="0" frameWidth="207" frameHeight="308"/>
+	<SubTexture name="yellow ghosted0009" x="789" y="1232" width="198" height="299" frameX="-9" frameY="0" frameWidth="207" frameHeight="308"/>
+</TextureAtlas>

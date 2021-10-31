@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Wall.png">
+	<!-- Actually not created by Adobe Animate but by me, Zekuta. -->
+	<!-- I'm fucking big brain. -->
+	<SubTexture name="Wall instance 10000" x="0" y="0" width="4473.6" height="1505.7"/>
+	<SubTexture name="Wall instance 10001" x="4473.6" y="0" width="4473.6" height="1505.7"/>
+	<SubTexture name="Wall instance 10002" x="0" y="1505.7" width="4473.6" height="1505.7"/>
+	<SubTexture name="Wall instance 10003" x="4473.6" y="1505.7" width="4473.6" height="1505.7"/>
+	<SubTexture name="Wall instance 10004" x="0" y="3011.4" width="4473.6" height="1505.7"/>
+	<SubTexture name="Wall instance 10005" x="4473.6" y="3011.4" width="4473.6" height="1505.7"/>
+	<SubTexture name="Wall instance 10006" x="0" y="4517.1" width="4473.6" height="1505.7"/>
+	<SubTexture name="Wall instance 10007" x="4473.6" y="4517.1" width="4473.6" height="1505.7"/>
+	<SubTexture name="Wall instance 10008" x="0" y="6022.8" width="4473.6" height="1505.7"/>
+	<SubTexture name="Wall instance 10009" x="4473.6" y="6022.8" width="4473.6" height="1505.7"/>
+</TextureAtlas>

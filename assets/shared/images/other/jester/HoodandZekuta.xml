@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HoodandZekuta.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BG Boppers instance 10000" x="0" y="0" width="220" height="143" frameX="0" frameY="-15" frameWidth="220" frameHeight="158"/>
+	<SubTexture name="BG Boppers instance 10001" x="0" y="0" width="220" height="143" frameX="0" frameY="-15" frameWidth="220" frameHeight="158"/>
+	<SubTexture name="BG Boppers instance 10002" x="220" y="0" width="210" height="155" frameX="-5" frameY="-3" frameWidth="220" frameHeight="158"/>
+	<SubTexture name="BG Boppers instance 10003" x="220" y="0" width="210" height="155" frameX="-5" frameY="-3" frameWidth="220" frameHeight="158"/>
+	<SubTexture name="BG Boppers instance 10004" x="0" y="155" width="207" height="158" frameX="-7" frameY="0" frameWidth="220" frameHeight="158"/>
+	<SubTexture name="BG Boppers instance 10005" x="0" y="155" width="207" height="158" frameX="-7" frameY="0" frameWidth="220" frameHeight="158"/>
+	<SubTexture name="BG Boppers instance 10006" x="0" y="155" width="207" height="158" frameX="-7" frameY="0" frameWidth="220" frameHeight="158"/>
+	<SubTexture name="BG Boppers instance 10007" x="0" y="155" width="207" height="158" frameX="-7" frameY="0" frameWidth="220" frameHeight="158"/>
+	<SubTexture name="BG Boppers instance 10008" x="0" y="155" width="207" height="158" frameX="-7" frameY="0" frameWidth="220" frameHeight="158"/>
+	<SubTexture name="BG Boppers instance 10009" x="0" y="155" width="207" height="158" frameX="-7" frameY="0" frameWidth="220" frameHeight="158"/>
+	<SubTexture name="BG Boppers instance 10010" x="0" y="155" width="207" height="158" frameX="-7" frameY="0" frameWidth="220" frameHeight="158"/>
+	<SubTexture name="BG Boppers instance 10011" x="0" y="155" width="207" height="158" frameX="-7" frameY="0" frameWidth="220" frameHeight="158"/>
+	<SubTexture name="BG Boppers instance 10012" x="0" y="155" width="207" height="158" frameX="-7" frameY="0" frameWidth="220" frameHeight="158"/>
+	<SubTexture name="BG Boppers instance 10013" x="0" y="155" width="207" height="158" frameX="-7" frameY="0" frameWidth="220" frameHeight="158"/>
+	<SubTexture name="BG Boppers instance 10014" x="0" y="155" width="207" height="158" frameX="-7" frameY="0" frameWidth="220" frameHeight="158"/>
+</TextureAtlas>

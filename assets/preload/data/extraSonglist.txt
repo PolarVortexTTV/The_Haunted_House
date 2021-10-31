@@ -1,0 +1,10 @@
+AgonyHell:soulfire:0
+CursedHell:battered:0
+Geist:sonic:0
+Disintegrate:ezra:0
+Stitched:voodoo:0
+Tranquil:epsilon:0
+Mimus:jester:0
+ShadowBoxing:matt:0
+Soulpurgation:soulfire:0
+Last-Stand:obama:0

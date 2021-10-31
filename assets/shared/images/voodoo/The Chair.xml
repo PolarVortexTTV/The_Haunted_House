@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="The Chair.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Rocking Chair0000" x="0" y="0" width="440" height="596" frameX="-63" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0001" x="0" y="0" width="440" height="596" frameX="-63" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0002" x="440" y="0" width="440" height="596" frameX="-63" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0003" x="440" y="0" width="440" height="596" frameX="-63" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0004" x="880" y="0" width="439" height="595" frameX="-63" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0005" x="880" y="0" width="439" height="595" frameX="-63" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0006" x="1319" y="0" width="440" height="594" frameX="-62" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0007" x="1319" y="0" width="440" height="594" frameX="-62" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0008" x="1759" y="0" width="441" height="593" frameX="-60" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0009" x="1759" y="0" width="441" height="593" frameX="-60" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0010" x="2200" y="0" width="441" height="590" frameX="-58" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0011" x="2200" y="0" width="441" height="590" frameX="-58" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0012" x="2641" y="0" width="442" height="585" frameX="-54" frameY="-2" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0013" x="2641" y="0" width="442" height="585" frameX="-54" frameY="-2" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0014" x="3083" y="0" width="461" height="578" frameX="-31" frameY="-6" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0015" x="3083" y="0" width="461" height="578" frameX="-31" frameY="-6" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0016" x="3544" y="0" width="474" height="573" frameX="-16" frameY="-9" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0017" x="3544" y="0" width="474" height="573" frameX="-16" frameY="-9" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0018" x="0" y="596" width="481" height="569" frameX="-7" frameY="-12" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0019" x="0" y="596" width="481" height="569" frameX="-7" frameY="-12" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0020" x="481" y="596" width="485" height="568" frameX="-2" frameY="-13" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0021" x="481" y="596" width="485" height="568" frameX="-2" frameY="-13" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0022" x="966" y="596" width="486" height="567" frameX="0" frameY="-14" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0023" x="966" y="596" width="486" height="567" frameX="0" frameY="-14" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0024" x="1452" y="596" width="486" height="567" frameX="0" frameY="-14" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0025" x="1452" y="596" width="486" height="567" frameX="0" frameY="-14" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0026" x="966" y="596" width="486" height="567" frameX="0" frameY="-13" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0027" x="966" y="596" width="486" height="567" frameX="0" frameY="-13" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0028" x="1938" y="596" width="485" height="568" frameX="-2" frameY="-13" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0029" x="1938" y="596" width="485" height="568" frameX="-2" frameY="-13" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0030" x="2423" y="596" width="482" height="569" frameX="-6" frameY="-12" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0031" x="2423" y="596" width="482" height="569" frameX="-6" frameY="-12" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0032" x="2905" y="596" width="475" height="572" frameX="-14" frameY="-10" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0033" x="2905" y="596" width="475" height="572" frameX="-14" frameY="-10" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0034" x="3380" y="596" width="464" height="577" frameX="-28" frameY="-7" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0035" x="3380" y="596" width="464" height="577" frameX="-28" frameY="-7" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0036" x="0" y="1173" width="446" height="583" frameX="-49" frameY="-3" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0037" x="0" y="1173" width="446" height="583" frameX="-49" frameY="-3" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0038" x="446" y="1173" width="442" height="589" frameX="-57" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0039" x="446" y="1173" width="442" height="589" frameX="-57" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0040" x="888" y="1173" width="441" height="592" frameX="-60" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0041" x="888" y="1173" width="441" height="592" frameX="-60" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0042" x="1329" y="1173" width="440" height="594" frameX="-62" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0043" x="1329" y="1173" width="440" height="594" frameX="-62" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0044" x="1769" y="1173" width="439" height="595" frameX="-63" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0045" x="1769" y="1173" width="439" height="595" frameX="-63" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0046" x="2208" y="1173" width="440" height="595" frameX="-63" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0047" x="2208" y="1173" width="440" height="595" frameX="-63" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0048" x="440" y="0" width="440" height="596" frameX="-63" frameY="0" frameWidth="503" frameHeight="596"/>
+	<SubTexture name="Rocking Chair0049" x="440" y="0" width="440" height="596" frameX="-63" frameY="0" frameWidth="503" frameHeight="596"/>
+</TextureAtlas>

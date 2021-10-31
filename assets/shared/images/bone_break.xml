@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bone_break.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="bone shatter instance 10000" x="0" y="0" width="123" height="137" frameX="-65" frameY="-49" frameWidth="254" frameHeight="248"/>
+	<SubTexture name="bone shatter instance 10001" x="0" y="0" width="123" height="137" frameX="-65" frameY="-49" frameWidth="254" frameHeight="248"/>
+	<SubTexture name="bone shatter instance 10002" x="123" y="0" width="228" height="227" frameX="-8" frameY="-9" frameWidth="254" frameHeight="248"/>
+	<SubTexture name="bone shatter instance 10003" x="123" y="0" width="228" height="227" frameX="-8" frameY="-9" frameWidth="254" frameHeight="248"/>
+	<SubTexture name="bone shatter instance 10004" x="0" y="227" width="254" height="248"/>
+	<SubTexture name="bone shatter instance 10005" x="0" y="227" width="254" height="248"/>
+	<SubTexture name="bone shatter instance 10006" x="254" y="227" width="0" height="0" frameX="770" frameY="270" frameWidth="254" frameHeight="248"/>
+	<SubTexture name="bone shatter instance 10007" x="254" y="227" width="0" height="0" frameX="770" frameY="270" frameWidth="254" frameHeight="248"/>
+</TextureAtlas>

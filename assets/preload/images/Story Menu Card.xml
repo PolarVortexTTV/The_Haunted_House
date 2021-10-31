@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Story Menu Card.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Part 1 Card0000" x="0" y="0" width="1571" height="1318"/>
+	<SubTexture name="Part 2 Card0000" x="1571" y="0" width="1759" height="1046"/>
+	<SubTexture name="Part 3 Card0000" x="0" y="1318" width="2148" height="1183"/>
+</TextureAtlas>

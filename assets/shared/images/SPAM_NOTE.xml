@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="SPAM_NOTE.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue SPAM instance 10000" x="0" y="0" width="159" height="164"/>
+	<SubTexture name="purple SPAM instance 10000" x="159" y="0" width="164" height="160"/>
+	<SubTexture name="NOTE SPAM PIECE instance 10000" x="323" y="0" width="166" height="115"/>
+	<SubTexture name="red SPAM instance 10000" x="0" y="164" width="165" height="160"/>
+	<SubTexture name="green SPAM instance 10000" x="165" y="164" width="160" height="164"/>
+</TextureAtlas>

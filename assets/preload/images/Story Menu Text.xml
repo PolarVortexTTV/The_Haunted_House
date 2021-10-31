@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Story Menu Text.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Easy instance 10000" x="0" y="0" width="529" height="159"/>
+	<SubTexture name="Hard instance 10000" x="0" y="159" width="529" height="159"/>
+	<SubTexture name="Normal instance 10000" x="0" y="318" width="714" height="117"/>
+	<SubTexture name="Part 1 instance 10000" x="0" y="435" width="526" height="124"/>
+	<SubTexture name="Part 2 instance 10000" x="0" y="559" width="562" height="123"/>
+	<SubTexture name="Part 3 instance 10000" x="0" y="682" width="609" height="124"/>
+</TextureAtlas>

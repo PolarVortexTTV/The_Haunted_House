@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="CandleTable.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="candle stand0000" x="0" y="0" width="220" height="476" frameX="0" frameY="-10" frameWidth="220" frameHeight="486"/>
+	<SubTexture name="candle stand0001" x="0" y="0" width="220" height="476" frameX="0" frameY="-10" frameWidth="220" frameHeight="486"/>
+	<SubTexture name="candle stand0002" x="220" y="0" width="220" height="473" frameX="0" frameY="-13" frameWidth="220" frameHeight="486"/>
+	<SubTexture name="candle stand0003" x="220" y="0" width="220" height="473" frameX="0" frameY="-13" frameWidth="220" frameHeight="486"/>
+	<SubTexture name="candle stand0004" x="440" y="0" width="220" height="478" frameX="0" frameY="-8" frameWidth="220" frameHeight="486"/>
+	<SubTexture name="candle stand0005" x="440" y="0" width="220" height="478" frameX="0" frameY="-8" frameWidth="220" frameHeight="486"/>
+	<SubTexture name="candle stand0006" x="660" y="0" width="220" height="486"/>
+	<SubTexture name="candle stand0007" x="660" y="0" width="220" height="486"/>
+	<SubTexture name="candle stand0008" x="0" y="486" width="220" height="463" frameX="0" frameY="-23" frameWidth="220" frameHeight="486"/>
+	<SubTexture name="candle stand0009" x="0" y="486" width="220" height="463" frameX="0" frameY="-23" frameWidth="220" frameHeight="486"/>
+</TextureAtlas>

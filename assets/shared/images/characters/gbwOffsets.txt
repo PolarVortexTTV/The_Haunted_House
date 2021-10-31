@@ -1,0 +1,6 @@
+idle 0 0
+singDOWN 130 210
+singRIGHT -110 40
+roar 502 680
+singUP 190 130
+singLEFT 300 150

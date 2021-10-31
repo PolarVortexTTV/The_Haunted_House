@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="HH Main Menu Buttons.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Credits basic0000" x="0" y="0" width="1024" height="175"/>
+	<SubTexture name="Credits Select0000" x="1024" y="0" width="1046" height="225"/>
+	<SubTexture name="Credits Select0001" x="2070" y="0" width="1036" height="215" frameX="-5" frameY="-5" frameWidth="1046" frameHeight="225"/>
+	<SubTexture name="Credits Select0002" x="0" y="225" width="1028" height="207" frameX="-9" frameY="-9" frameWidth="1046" frameHeight="225"/>
+	<SubTexture name="Credits Select0003" x="1028" y="225" width="1022" height="201" frameX="-12" frameY="-12" frameWidth="1046" frameHeight="225"/>
+	<SubTexture name="Credits Select0004" x="2050" y="225" width="1016" height="195" frameX="-15" frameY="-15" frameWidth="1046" frameHeight="225"/>
+	<SubTexture name="Credits Select0005" x="3066" y="225" width="1010" height="189" frameX="-18" frameY="-18" frameWidth="1046" frameHeight="225"/>
+	<SubTexture name="Credits Select0006" x="0" y="432" width="1006" height="185" frameX="-20" frameY="-20" frameWidth="1046" frameHeight="225"/>
+	<SubTexture name="Credits Select0007" x="1006" y="432" width="1004" height="183" frameX="-21" frameY="-21" frameWidth="1046" frameHeight="225"/>
+	<SubTexture name="Credits Select0008" x="2010" y="432" width="1002" height="181" frameX="-22" frameY="-22" frameWidth="1046" frameHeight="225"/>
+	<SubTexture name="Credits Select0009" x="3012" y="432" width="1002" height="181" frameX="-22" frameY="-22" frameWidth="1046" frameHeight="225"/>
+	<SubTexture name="Extras basic0000" x="0" y="617" width="795" height="172"/>
+	<SubTexture name="Extras Select0000" x="795" y="617" width="846" height="223"/>
+	<SubTexture name="Extras Select0001" x="1641" y="617" width="836" height="213" frameX="-5" frameY="-5" frameWidth="846" frameHeight="223"/>
+	<SubTexture name="Extras Select0002" x="2477" y="617" width="828" height="205" frameX="-9" frameY="-9" frameWidth="846" frameHeight="223"/>
+	<SubTexture name="Extras Select0003" x="0" y="840" width="822" height="199" frameX="-12" frameY="-12" frameWidth="846" frameHeight="223"/>
+	<SubTexture name="Extras Select0004" x="822" y="840" width="816" height="193" frameX="-15" frameY="-15" frameWidth="846" frameHeight="223"/>
+	<SubTexture name="Extras Select0005" x="1638" y="840" width="810" height="187" frameX="-18" frameY="-18" frameWidth="846" frameHeight="223"/>
+	<SubTexture name="Extras Select0006" x="2448" y="840" width="806" height="183" frameX="-20" frameY="-20" frameWidth="846" frameHeight="223"/>
+	<SubTexture name="Extras Select0007" x="3254" y="840" width="804" height="181" frameX="-21" frameY="-21" frameWidth="846" frameHeight="223"/>
+	<SubTexture name="Extras Select0008" x="0" y="1039" width="802" height="179" frameX="-22" frameY="-22" frameWidth="846" frameHeight="223"/>
+	<SubTexture name="Extras Select0009" x="802" y="1039" width="802" height="179" frameX="-22" frameY="-22" frameWidth="846" frameHeight="223"/>
+	<SubTexture name="Freeplay basic0000" x="1604" y="1039" width="850" height="173"/>
+	<SubTexture name="Freeplay Select0000" x="2454" y="1039" width="908" height="217"/>
+	<SubTexture name="Freeplay Select0001" x="0" y="1256" width="888" height="197" frameX="-10" frameY="-10" frameWidth="908" frameHeight="217"/>
+	<SubTexture name="Freeplay Select0002" x="888" y="1256" width="882" height="191" frameX="-13" frameY="-13" frameWidth="908" frameHeight="217"/>
+	<SubTexture name="Freeplay Select0003" x="1770" y="1256" width="864" height="183" frameX="-22" frameY="-15" frameWidth="908" frameHeight="217"/>
+	<SubTexture name="Freeplay Select0004" x="2634" y="1256" width="862" height="181" frameX="-23" frameY="-16" frameWidth="908" frameHeight="217"/>
+	<SubTexture name="Freeplay Select0005" x="0" y="1453" width="860" height="179" frameX="-24" frameY="-17" frameWidth="908" frameHeight="217"/>
+	<SubTexture name="Freeplay Select0006" x="860" y="1453" width="858" height="177" frameX="-25" frameY="-18" frameWidth="908" frameHeight="217"/>
+	<SubTexture name="Freeplay Select0007" x="1718" y="1453" width="858" height="175" frameX="-25" frameY="-19" frameWidth="908" frameHeight="217"/>
+	<SubTexture name="Freeplay Select0008" x="2576" y="1453" width="858" height="173" frameX="-25" frameY="-20" frameWidth="908" frameHeight="217"/>
+	<SubTexture name="Freeplay Select0009" x="0" y="1632" width="856" height="171" frameX="-26" frameY="-21" frameWidth="908" frameHeight="217"/>
+	<SubTexture name="Options basic0000" x="856" y="1632" width="842" height="175"/>
+	<SubTexture name="Options Select0000" x="1698" y="1632" width="888" height="217"/>
+	<SubTexture name="Options Select0001" x="2586" y="1632" width="878" height="207" frameX="-5" frameY="-5" frameWidth="888" frameHeight="217"/>
+	<SubTexture name="Options Select0002" x="0" y="1849" width="870" height="199" frameX="-9" frameY="-9" frameWidth="888" frameHeight="217"/>
+	<SubTexture name="Options Select0003" x="870" y="1849" width="864" height="198" frameX="-12" frameY="-7" frameWidth="888" frameHeight="217"/>
+	<SubTexture name="Options Select0004" x="1734" y="1849" width="858" height="194" frameX="-15" frameY="-8" frameWidth="888" frameHeight="217"/>
+	<SubTexture name="Options Select0005" x="2592" y="1849" width="852" height="190" frameX="-18" frameY="-9" frameWidth="888" frameHeight="217"/>
+	<SubTexture name="Options Select0006" x="0" y="2048" width="848" height="187" frameX="-20" frameY="-10" frameWidth="888" frameHeight="217"/>
+	<SubTexture name="Options Select0007" x="848" y="2048" width="846" height="187" frameX="-21" frameY="-10" frameWidth="888" frameHeight="217"/>
+	<SubTexture name="Options Select0008" x="1694" y="2048" width="844" height="187" frameX="-22" frameY="-10" frameWidth="888" frameHeight="217"/>
+	<SubTexture name="Options Select0009" x="2538" y="2048" width="844" height="187" frameX="-22" frameY="-10" frameWidth="888" frameHeight="217"/>
+	<SubTexture name="Story Mode basic0000" x="0" y="2235" width="991" height="172"/>
+	<SubTexture name="Story Mode Select0000" x="991" y="2235" width="1060" height="218"/>
+	<SubTexture name="Story Mode Select0001" x="2051" y="2235" width="1050" height="208" frameX="-5" frameY="-5" frameWidth="1060" frameHeight="218"/>
+	<SubTexture name="Story Mode Select0002" x="0" y="2453" width="1042" height="200" frameX="-9" frameY="-9" frameWidth="1060" frameHeight="218"/>
+	<SubTexture name="Story Mode Select0003" x="1042" y="2453" width="1036" height="194" frameX="-12" frameY="-12" frameWidth="1060" frameHeight="218"/>
+	<SubTexture name="Story Mode Select0004" x="2078" y="2453" width="1030" height="188" frameX="-15" frameY="-15" frameWidth="1060" frameHeight="218"/>
+	<SubTexture name="Story Mode Select0005" x="0" y="2653" width="1024" height="183" frameX="-18" frameY="-17" frameWidth="1060" frameHeight="218"/>
+	<SubTexture name="Story Mode Select0006" x="1024" y="2653" width="1020" height="180" frameX="-20" frameY="-18" frameWidth="1060" frameHeight="218"/>
+	<SubTexture name="Story Mode Select0007" x="2044" y="2653" width="1018" height="179" frameX="-21" frameY="-18" frameWidth="1060" frameHeight="218"/>
+	<SubTexture name="Story Mode Select0008" x="3062" y="2653" width="1016" height="178" frameX="-22" frameY="-18" frameWidth="1060" frameHeight="218"/>
+	<SubTexture name="Story Mode Select0009" x="0" y="2836" width="1016" height="179" frameX="-22" frameY="-17" frameWidth="1060" frameHeight="218"/>
+</TextureAtlas>

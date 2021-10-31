@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Trap Notes.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="blue Drain instance 10000" x="0" y="0" width="180" height="157"/>
+	<SubTexture name="blue Drain instance 10001" x="0" y="0" width="180" height="157"/>
+	<SubTexture name="blue Drain instance 10002" x="180" y="0" width="180" height="157"/>
+	<SubTexture name="blue Drain instance 10003" x="180" y="0" width="180" height="157"/>
+	<SubTexture name="blue Drain instance 10004" x="360" y="0" width="180" height="157"/>
+	<SubTexture name="blue Drain instance 10005" x="360" y="0" width="180" height="157"/>
+	<SubTexture name="purple Drain instance 10000" x="540" y="0" width="157" height="180"/>
+	<SubTexture name="purple Drain instance 10001" x="540" y="0" width="157" height="180"/>
+	<SubTexture name="purple Drain instance 10002" x="697" y="0" width="156" height="180" frameX="0" frameY="0" frameWidth="157" frameHeight="180"/>
+	<SubTexture name="purple Drain instance 10003" x="697" y="0" width="156" height="180" frameX="0" frameY="0" frameWidth="157" frameHeight="180"/>
+	<SubTexture name="purple Drain instance 10004" x="853" y="0" width="157" height="180"/>
+	<SubTexture name="purple Drain instance 10005" x="853" y="0" width="157" height="180"/>
+	<SubTexture name="red Drain instance 10000" x="0" y="180" width="156" height="180"/>
+	<SubTexture name="red Drain instance 10001" x="0" y="180" width="156" height="180"/>
+	<SubTexture name="red Drain instance 10002" x="156" y="180" width="156" height="180"/>
+	<SubTexture name="red Drain instance 10003" x="156" y="180" width="156" height="180"/>
+	<SubTexture name="red Drain instance 10004" x="312" y="180" width="156" height="180"/>
+	<SubTexture name="red Drain instance 10005" x="312" y="180" width="156" height="180"/>
+	<SubTexture name="green Drain instance 10000" x="468" y="180" width="180" height="157"/>
+	<SubTexture name="green Drain instance 10001" x="468" y="180" width="180" height="157"/>
+	<SubTexture name="green Drain instance 10002" x="648" y="180" width="180" height="157"/>
+	<SubTexture name="green Drain instance 10003" x="648" y="180" width="180" height="157"/>
+	<SubTexture name="green Drain instance 10004" x="828" y="180" width="180" height="157"/>
+	<SubTexture name="green Drain instance 10005" x="828" y="180" width="180" height="157"/>
+	<SubTexture name="yellow Drain instance 10000" x="0" y="360" width="158" height="113"/>
+	<SubTexture name="yellow Drain instance 10001" x="0" y="360" width="158" height="113"/>
+	<SubTexture name="yellow Drain instance 10002" x="158" y="360" width="158" height="113"/>
+	<SubTexture name="yellow Drain instance 10003" x="158" y="360" width="158" height="113"/>
+	<SubTexture name="yellow Drain instance 10004" x="316" y="360" width="158" height="113"/>
+	<SubTexture name="yellow Drain instance 10005" x="316" y="360" width="158" height="113"/>
+</TextureAtlas>

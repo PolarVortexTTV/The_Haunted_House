@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Story Menu Arrows.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ZaArrows instance 10000" x="0" y="0" width="814" height="897" frameX="-49" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10001" x="814" y="0" width="815" height="897" frameX="-48" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10002" x="1629" y="0" width="816" height="897" frameX="-48" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10003" x="2445" y="0" width="819" height="897" frameX="-46" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10004" x="3264" y="0" width="823" height="897" frameX="-44" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10005" x="4087" y="0" width="828" height="897" frameX="-42" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10006" x="4915" y="0" width="834" height="897" frameX="-39" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10007" x="5749" y="0" width="840" height="897" frameX="-36" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10008" x="6589" y="0" width="849" height="897" frameX="-31" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10009" x="0" y="897" width="858" height="897" frameX="-27" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10010" x="858" y="897" width="868" height="897" frameX="-22" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10011" x="1726" y="897" width="877" height="897" frameX="-17" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10012" x="2603" y="897" width="885" height="897" frameX="-13" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10013" x="3488" y="897" width="892" height="897" frameX="-10" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10014" x="4380" y="897" width="898" height="897" frameX="-7" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10015" x="5278" y="897" width="903" height="897" frameX="-4" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10016" x="6181" y="897" width="907" height="897" frameX="-2" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10017" x="7088" y="897" width="909" height="897" frameX="-1" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10018" x="0" y="1794" width="911" height="897" frameX="0" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10019" x="911" y="1794" width="912" height="897"/>
+	<SubTexture name="ZaArrows instance 10020" x="0" y="1794" width="911" height="897" frameX="0" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10021" x="7088" y="897" width="909" height="897" frameX="-1" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10022" x="6181" y="897" width="907" height="897" frameX="-2" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10023" x="1823" y="1794" width="904" height="897" frameX="-4" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10024" x="2727" y="1794" width="899" height="897" frameX="-6" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10025" x="3626" y="1794" width="894" height="897" frameX="-9" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10026" x="4520" y="1794" width="888" height="897" frameX="-12" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10027" x="5408" y="1794" width="880" height="897" frameX="-16" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10028" x="6288" y="1794" width="872" height="897" frameX="-20" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10029" x="7160" y="1794" width="863" height="897" frameX="-24" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10030" x="0" y="2691" width="854" height="897" frameX="-29" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10031" x="854" y="2691" width="845" height="897" frameX="-33" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10032" x="1699" y="2691" width="838" height="897" frameX="-37" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10033" x="2537" y="2691" width="832" height="897" frameX="-40" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10034" x="3369" y="2691" width="826" height="897" frameX="-43" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10035" x="4195" y="2691" width="822" height="897" frameX="-45" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10036" x="2445" y="0" width="819" height="897" frameX="-47" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10037" x="1629" y="0" width="816" height="897" frameX="-48" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10038" x="814" y="0" width="815" height="897" frameX="-48" frameY="0" frameWidth="912" frameHeight="897"/>
+	<SubTexture name="ZaArrows instance 10039" x="0" y="0" width="814" height="897" frameX="-49" frameY="0" frameWidth="912" frameHeight="897"/>
+</TextureAtlas>

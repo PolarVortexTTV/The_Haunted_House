@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="DaWindow1.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Window10000" x="0" y="0" width="1323" height="493" frameX="-11" frameY="0" frameWidth="1334" frameHeight="493"/>
+	<SubTexture name="Window10001" x="0" y="0" width="1323" height="493" frameX="-11" frameY="0" frameWidth="1334" frameHeight="493"/>
+	<SubTexture name="Window10002" x="1323" y="0" width="1334" height="493"/>
+	<SubTexture name="Window10003" x="1323" y="0" width="1334" height="493"/>
+	<SubTexture name="Window10004" x="2657" y="0" width="1315" height="493" frameX="-19" frameY="0" frameWidth="1334" frameHeight="493"/>
+	<SubTexture name="Window10005" x="2657" y="0" width="1315" height="493" frameX="-19" frameY="0" frameWidth="1334" frameHeight="493"/>
+	<SubTexture name="Window10006" x="0" y="493" width="1305" height="493" frameX="-29" frameY="0" frameWidth="1334" frameHeight="493"/>
+	<SubTexture name="Window10007" x="0" y="493" width="1305" height="493" frameX="-29" frameY="0" frameWidth="1334" frameHeight="493"/>
+	<SubTexture name="Window10008" x="1305" y="493" width="1305" height="493" frameX="-29" frameY="0" frameWidth="1334" frameHeight="493"/>
+	<SubTexture name="Window10009" x="1305" y="493" width="1305" height="493" frameX="-29" frameY="0" frameWidth="1334" frameHeight="493"/>
+</TextureAtlas>

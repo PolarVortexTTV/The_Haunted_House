@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Tiky.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tiky Bop0000" x="0" y="0" width="418" height="532" frameX="0" frameY="-16" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0001" x="0" y="0" width="418" height="532" frameX="0" frameY="-16" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0002" x="418" y="0" width="412" height="544" frameX="-4" frameY="-4" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0003" x="418" y="0" width="412" height="544" frameX="-4" frameY="-4" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0004" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0005" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0006" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0007" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0008" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0009" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0010" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0011" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0012" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0013" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0014" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0015" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0016" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0017" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0018" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0019" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0020" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0021" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0022" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0023" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+	<SubTexture name="Tiky Bop0024" x="830" y="0" width="407" height="548" frameX="-6" frameY="0" frameWidth="418" frameHeight="548"/>
+</TextureAtlas>

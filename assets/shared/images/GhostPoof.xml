@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GhostPoof.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="ghoulplosion0000" x="0" y="0" width="89" height="104" frameX="-119" frameY="-114" frameWidth="344" frameHeight="323"/>
+	<SubTexture name="ghoulplosion0001" x="0" y="0" width="89" height="104" frameX="-119" frameY="-114" frameWidth="344" frameHeight="323"/>
+	<SubTexture name="ghoulplosion0002" x="89" y="0" width="258" height="239" frameX="-42" frameY="-37" frameWidth="344" frameHeight="323"/>
+	<SubTexture name="ghoulplosion0003" x="89" y="0" width="258" height="239" frameX="-42" frameY="-37" frameWidth="344" frameHeight="323"/>
+	<SubTexture name="ghoulplosion0004" x="0" y="239" width="330" height="295" frameX="-8" frameY="-9" frameWidth="344" frameHeight="323"/>
+	<SubTexture name="ghoulplosion0005" x="0" y="239" width="330" height="295" frameX="-8" frameY="-9" frameWidth="344" frameHeight="323"/>
+	<SubTexture name="ghoulplosion0006" x="0" y="534" width="344" height="321" frameX="0" frameY="-2" frameWidth="344" frameHeight="323"/>
+	<SubTexture name="ghoulplosion0007" x="0" y="534" width="344" height="321" frameX="0" frameY="-2" frameWidth="344" frameHeight="323"/>
+	<SubTexture name="ghoulplosion0008" x="344" y="534" width="108" height="249" frameX="-109" frameY="-6" frameWidth="344" frameHeight="323"/>
+	<SubTexture name="ghoulplosion0009" x="344" y="534" width="108" height="249" frameX="-109" frameY="-6" frameWidth="344" frameHeight="323"/>
+	<SubTexture name="ghoulplosion0010" x="452" y="534" width="57" height="130" frameX="-123" frameY="0" frameWidth="344" frameHeight="323"/>
+	<SubTexture name="ghoulplosion0011" x="452" y="534" width="57" height="130" frameX="-123" frameY="0" frameWidth="344" frameHeight="323"/>
+	<SubTexture name="ghoulplosion0012" x="0" y="855" width="26" height="29" frameX="-148" frameY="-4" frameWidth="344" frameHeight="323"/>
+	<SubTexture name="ghoulplosion0013" x="0" y="855" width="26" height="29" frameX="-148" frameY="-4" frameWidth="344" frameHeight="323"/>
+</TextureAtlas>

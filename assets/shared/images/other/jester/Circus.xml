@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Circus.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Symbol 32 instance 10000" x="0" y="0" width="2425" height="1685"/>
+	<SubTexture name="Symbol 32 instance 10001" x="0" y="0" width="2425" height="1685"/>
+	<SubTexture name="Symbol 32 instance 10002" x="2425" y="0" width="2425" height="1685"/>
+	<SubTexture name="Symbol 32 instance 10003" x="2425" y="0" width="2425" height="1685"/>
+	<SubTexture name="Symbol 32 instance 10004" x="4850" y="0" width="2425" height="1685"/>
+	<SubTexture name="Symbol 32 instance 10005" x="4850" y="0" width="2425" height="1685"/>
+	<SubTexture name="Symbol 32 instance 10006" x="0" y="1685" width="2425" height="1685"/>
+	<SubTexture name="Symbol 32 instance 10007" x="0" y="1685" width="2425" height="1685"/>
+	<SubTexture name="Symbol 32 instance 10008" x="2425" y="1685" width="2425" height="1685"/>
+	<SubTexture name="Symbol 32 instance 10009" x="2425" y="1685" width="2425" height="1685"/>
+</TextureAtlas>

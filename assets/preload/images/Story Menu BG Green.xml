@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Story Menu BG Green.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Story Mode BG to Green0000" x="0" y="0" width="1975" height="1313"/>
+	<SubTexture name="Story Mode BG to Green0001" x="1975" y="0" width="1975" height="1313"/>
+	<SubTexture name="Story Mode BG to Green0002" x="3950" y="0" width="1975" height="1313"/>
+	<SubTexture name="Story Mode BG to Green0003" x="5925" y="0" width="1975" height="1313"/>
+	<SubTexture name="Story Mode BG to Green0004" x="0" y="1313" width="1975" height="1313"/>
+	<SubTexture name="Story Mode BG to Green0005" x="1975" y="1313" width="1975" height="1313"/>
+	<SubTexture name="Story Mode BG to Green0006" x="3950" y="1313" width="1975" height="1313"/>
+	<SubTexture name="Story Mode BG to Green0007" x="5925" y="1313" width="1975" height="1313"/>
+	<SubTexture name="Story Mode BG to Green0008" x="0" y="2626" width="1975" height="1313"/>
+	<SubTexture name="Story Mode BG to Green0009" x="1975" y="2626" width="1975" height="1313"/>
+	<SubTexture name="Story Mode BG to Red0000" x="1975" y="2626" width="1975" height="1313"/>
+	<SubTexture name="Story Mode BG to Red0001" x="0" y="2626" width="1975" height="1313"/>
+	<SubTexture name="Story Mode BG to Red0002" x="5925" y="1313" width="1975" height="1313"/>
+	<SubTexture name="Story Mode BG to Red0003" x="3950" y="1313" width="1975" height="1313"/>
+	<SubTexture name="Story Mode BG to Red0004" x="1975" y="1313" width="1975" height="1313"/>
+	<SubTexture name="Story Mode BG to Red0005" x="0" y="1313" width="1975" height="1313"/>
+	<SubTexture name="Story Mode BG to Red0006" x="5925" y="0" width="1975" height="1313"/>
+	<SubTexture name="Story Mode BG to Red0007" x="3950" y="0" width="1975" height="1313"/>
+	<SubTexture name="Story Mode BG to Red0008" x="1975" y="0" width="1975" height="1313"/>
+	<SubTexture name="Story Mode BG to Red0009" x="0" y="0" width="1975" height="1313"/>
+</TextureAtlas>
+

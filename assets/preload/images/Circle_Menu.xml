@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Circle Menu.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="CircleMenu Credits0000" x="0" y="0" width="970" height="970"/>
+	<SubTexture name="CircleMenu Credits0001" x="970" y="0" width="970" height="970"/>
+	<SubTexture name="CircleMenu Credits0002" x="1940" y="0" width="970" height="970"/>
+	<SubTexture name="CircleMenu Credits0003" x="2910" y="0" width="970" height="970"/>
+	<SubTexture name="CircleMenu Credits0004" x="2910" y="0" width="970" height="970"/>
+	<SubTexture name="CircleMenu Extras0000" x="3880" y="0" width="970" height="970"/>
+	<SubTexture name="CircleMenu Extras0001" x="4850" y="0" width="970" height="970"/>
+	<SubTexture name="CircleMenu Extras0002" x="5820" y="0" width="970" height="970"/>
+	<SubTexture name="CircleMenu Extras0003" x="6790" y="0" width="970" height="970"/>
+	<SubTexture name="CircleMenu Extras0004" x="6790" y="0" width="970" height="970"/>
+	<SubTexture name="CircleMenu Freeplay0000" x="0" y="970" width="970" height="970"/>
+	<SubTexture name="CircleMenu Freeplay0001" x="970" y="970" width="970" height="970"/>
+	<SubTexture name="CircleMenu Freeplay0002" x="1940" y="970" width="970" height="970"/>
+	<SubTexture name="CircleMenu Freeplay0003" x="2910" y="970" width="970" height="970"/>
+	<SubTexture name="CircleMenu Freeplay0004" x="3880" y="970" width="970" height="970"/>
+	<SubTexture name="CircleMenu Options0000" x="4850" y="970" width="970" height="970"/>
+	<SubTexture name="CircleMenu Options0001" x="5820" y="970" width="970" height="970"/>
+	<SubTexture name="CircleMenu Options0002" x="6790" y="970" width="970" height="970"/>
+	<SubTexture name="CircleMenu Options0003" x="0" y="1940" width="970" height="970"/>
+	<SubTexture name="CircleMenu Options0004" x="970" y="1940" width="970" height="970"/>
+	<SubTexture name="CircleMenu Story Mode0000" x="1940" y="1940" width="970" height="970"/>
+	<SubTexture name="CircleMenu Story Mode0001" x="2910" y="1940" width="970" height="970"/>
+	<SubTexture name="CircleMenu Story Mode0002" x="3880" y="1940" width="970" height="970"/>
+	<SubTexture name="CircleMenu Story Mode0003" x="4850" y="1940" width="970" height="970"/>
+	<SubTexture name="CircleMenu Story Mode0004" x="5820" y="1940" width="970" height="970"/>
+</TextureAtlas>

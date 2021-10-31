@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Chimney.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="chimney0000" x="0" y="0" width="884" height="1376"/>
+	<SubTexture name="chimney0001" x="884" y="0" width="884" height="1376"/>
+	<SubTexture name="chimney0002" x="0" y="1376" width="884" height="1376"/>
+	<SubTexture name="chimney0003" x="884" y="1376" width="884" height="1376"/>
+	<SubTexture name="chimney0004" x="0" y="2752" width="884" height="1376"/>
+	<SubTexture name="chimney0005" x="884" y="2752" width="884" height="1376"/>
+	<SubTexture name="chimney0006" x="0" y="4128" width="884" height="1376"/>
+	<SubTexture name="chimney0007" x="884" y="4128" width="884" height="1376"/>
+	<SubTexture name="chimney0008" x="0" y="5504" width="884" height="1376"/>
+	<SubTexture name="chimney0009" x="884" y="5504" width="884" height="1376"/>
+</TextureAtlas>

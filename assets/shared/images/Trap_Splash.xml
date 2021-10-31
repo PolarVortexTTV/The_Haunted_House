@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Trap Splash.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="trap splash instance 10000" x="0" y="0" width="77" height="73" frameX="-74" frameY="-76" frameWidth="224" frameHeight="226"/>
+	<SubTexture name="trap splash instance 10001" x="77" y="0" width="161" height="159" frameX="-31" frameY="-33" frameWidth="224" frameHeight="226"/>
+	<SubTexture name="trap splash instance 10002" x="238" y="0" width="217" height="216" frameX="-3" frameY="-5" frameWidth="224" frameHeight="226"/>
+	<SubTexture name="trap splash instance 10003" x="0" y="216" width="224" height="226"/>
+	<SubTexture name="trap splash instance 10004" x="224" y="216" width="0" height="0" frameX="945" frameY="283" frameWidth="224" frameHeight="226"/>
+</TextureAtlas>

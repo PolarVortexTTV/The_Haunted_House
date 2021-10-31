@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ghoul_bw_roar.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="SoulFireGhoul Roar0000" x="0" y="0" width="884" height="643" frameX="-598" frameY="-906" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0001" x="0" y="0" width="884" height="643" frameX="-598" frameY="-906" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0002" x="919" y="0" width="879" height="575" frameX="-591" frameY="-908" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0003" x="1833" y="0" width="879" height="583" frameX="-591" frameY="-908" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0004" x="2747" y="0" width="725" height="493" frameX="-632" frameY="-933" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0005" x="3507" y="0" width="735" height="501" frameX="-632" frameY="-933" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0006" x="4277" y="0" width="729" height="491" frameX="-632" frameY="-935" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0007" x="5041" y="0" width="723" height="491" frameX="-632" frameY="-935" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0008" x="5799" y="0" width="732" height="489" frameX="-623" frameY="-934" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0009" x="6566" y="0" width="757" height="491" frameX="-623" frameY="-934" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0010" x="0" y="678" width="929" height="616" frameX="-452" frameY="-843" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0011" x="964" y="678" width="939" height="616" frameX="-442" frameY="-843" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0012" x="1938" y="678" width="1195" height="789" frameX="-344" frameY="-708" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0013" x="3168" y="678" width="1195" height="789" frameX="-344" frameY="-708" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0014" x="4398" y="678" width="1479" height="962" frameX="-262" frameY="-540" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0015" x="5912" y="678" width="1479" height="962" frameX="-262" frameY="-540" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0016" x="0" y="1675" width="1845" height="1007" frameX="-93" frameY="-495" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0017" x="1880" y="1675" width="1845" height="1007" frameX="-93" frameY="-495" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0018" x="3760" y="1675" width="1732" height="1143" frameX="-204" frameY="-359" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0019" x="5527" y="1675" width="1732" height="1143" frameX="-204" frameY="-359" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0020" x="0" y="2853" width="1793" height="1254" frameX="-134" frameY="-248" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0021" x="1828" y="2853" width="1793" height="1254" frameX="-134" frameY="-248" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0022" x="3656" y="2853" width="1821" height="1293" frameX="-97" frameY="-209" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0023" x="5512" y="2853" width="1821" height="1293" frameX="-97" frameY="-209" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0024" x="0" y="4181" width="1625" height="1265" frameX="-310" frameY="-225" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0025" x="1660" y="4181" width="1625" height="1265" frameX="-310" frameY="-225" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0026" x="3320" y="4181" width="1976" height="1386" frameX="0" frameY="-126" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0027" x="5331" y="4181" width="1976" height="1386" frameX="0" frameY="-126" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0028" x="0" y="5602" width="1616" height="1190" frameX="-497" frameY="-80" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0029" x="1651" y="5602" width="1616" height="1190" frameX="-497" frameY="-80" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0030" x="3302" y="5602" width="1670" height="1261" frameX="-496" frameY="0" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0031" x="5007" y="5602" width="1670" height="1261" frameX="-496" frameY="0" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0032" x="6712" y="5602" width="740" height="412" frameX="-577" frameY="-849" frameWidth="2166" frameHeight="1549"/>
+	<SubTexture name="SoulFireGhoul Roar0033" x="0" y="6898" width="740" height="412" frameX="-577" frameY="-849" frameWidth="2166" frameHeight="1549"/>
+</TextureAtlas>

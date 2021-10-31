@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Menu Icons.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Story Mode MenuIcon0000" x="0" y="0" width="690" height="551"/>
+	<SubTexture name="Options MenuIcon0000" x="690" y="0" width="733" height="727"/>
+	<SubTexture name="Credits MenuIcon0000" x="0" y="727" width="773" height="683"/>
+	<SubTexture name="Freeplay MenuIcon0000" x="773" y="727" width="633" height="598"/>
+	<SubTexture name="Extras MenuIcon0000" x="0" y="1410" width="652" height="584"/>
+</TextureAtlas>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="alphaBoppers.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="alpha Bob0000" x="0" y="0" width="2255" height="1472"/>
+	<SubTexture name="alpha Bob0001" x="0" y="0" width="2255" height="1472"/>
+	<SubTexture name="alpha Bob0002" x="2290" y="0" width="2255" height="1472"/>
+	<SubTexture name="alpha Bob0003" x="2290" y="0" width="2255" height="1472"/>
+	<SubTexture name="alpha Bob0004" x="4580" y="0" width="2255" height="1472"/>
+	<SubTexture name="alpha Bob0005" x="4580" y="0" width="2255" height="1472"/>
+	<SubTexture name="alpha Bob0006" x="0" y="1507" width="2255" height="1472"/>
+	<SubTexture name="alpha Bob0007" x="0" y="1507" width="2255" height="1472"/>
+	<SubTexture name="alpha Bob0008" x="2290" y="1507" width="2255" height="1472"/>
+	<SubTexture name="alpha Bob0009" x="2290" y="1507" width="2255" height="1472"/>
+	<SubTexture name="alpha Bob0010" x="2290" y="1507" width="2255" height="1472"/>
+	<SubTexture name="alpha Bob0011" x="2290" y="1507" width="2255" height="1472"/>
+	<SubTexture name="alpha Bob0012" x="4580" y="1507" width="2255" height="1472"/>
+	<SubTexture name="alpha Bob0013" x="4580" y="1507" width="2255" height="1472"/>
+</TextureAtlas>

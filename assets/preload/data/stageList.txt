@@ -1,0 +1,12 @@
+stage
+fireplace
+mansion
+mansion-evil
+epsilon
+soulpurgation
+last-stand
+battleground
+shadowboxing
+attic
+jesterstage
+ezrastand

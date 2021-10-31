@@ -1,0 +1,4 @@
+firstDeath 0 0
+deathLoop 0 0
+deathConfirm 0 0
+singUP 0 0

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="hoodBoppers.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="hood Bob0000" x="0" y="0" width="2625" height="1649"/>
+	<SubTexture name="hood Bob0001" x="0" y="0" width="2625" height="1649"/>
+	<SubTexture name="hood Bob0002" x="2660" y="0" width="2625" height="1649"/>
+	<SubTexture name="hood Bob0003" x="2660" y="0" width="2625" height="1649"/>
+	<SubTexture name="hood Bob0004" x="5320" y="0" width="2625" height="1649"/>
+	<SubTexture name="hood Bob0005" x="5320" y="0" width="2625" height="1649"/>
+	<SubTexture name="hood Bob0006" x="0" y="1684" width="2625" height="1649"/>
+	<SubTexture name="hood Bob0007" x="0" y="1684" width="2625" height="1649"/>
+	<SubTexture name="hood Bob0008" x="2660" y="1684" width="2625" height="1649"/>
+	<SubTexture name="hood Bob0009" x="2660" y="1684" width="2625" height="1649"/>
+	<SubTexture name="hood Bob0010" x="5320" y="1684" width="2625" height="1649"/>
+	<SubTexture name="hood Bob0011" x="5320" y="1684" width="2625" height="1649"/>
+	<SubTexture name="hood Bob0012" x="0" y="3368" width="2625" height="1649"/>
+	<SubTexture name="hood Bob0013" x="0" y="3368" width="2625" height="1649"/>
+</TextureAtlas>
