@@ -243,7 +243,7 @@ class AgonyAnimations extends Option
 
 	private override function updateDisplay():String
 	{
-		return "Agony Animations " + (!FlxG.save.data.agonyAnimations ? "off" : "on");
+		return "Agony Animations " + (FlxG.save.data.agonyAnimations ? "on" : "off");
 	}
 }
 
@@ -962,7 +962,7 @@ class ResetSettings extends Option
 		FlxG.save.data.accuracyDisplay = null;
 		FlxG.save.data.offset = null;
 		FlxG.save.data.songPosition = null;
-		FlxG.save.data.agonyAnimations = null;
+		FlxG.save.data.agonyAnimations = true;
 		FlxG.save.data.fps = null;
 		FlxG.save.data.changedHit = null;
 		FlxG.save.data.fpsRain = null;
