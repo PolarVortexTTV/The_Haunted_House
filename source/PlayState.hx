@@ -755,8 +755,8 @@ class PlayState extends MusicBeatState
 							dad.x = -41;
 							dad.y = 283;
 						}
-						boyfriend.x = 1140;
-						boyfriend.y = 783;
+						boyfriend.x = 1133;
+						boyfriend.y = 750;
 						gf.x = 640;
 						gf.y = 387;
 					case 'epsilon':
