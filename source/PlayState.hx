@@ -654,7 +654,7 @@ class PlayState extends MusicBeatState
 				case 'obama':
 					dad.scale.set(5, 5);
 				case 'matt':
-					dad.scale.set(1.5, 1.5);
+					dad.scale.set(1.25, 1.25);
 				case "monster":
 					dad.y += 100;
 				case 'monster-christmas':
@@ -776,13 +776,13 @@ class PlayState extends MusicBeatState
 						boyfriend.x = 87;
 						boyfriend.y = 183;
 					case 'shadowboxing':
-						gf.x = -36;
-						gf.y = -288;
+						gf.x = 914;
+						gf.y = 51;
 						gf.scrollFactor.set(0.9, 0.9);
-						boyfriend.x = 470;
-						boyfriend.y = 216;
-						dad.x = -841;
-						dad.y = 135;
+						boyfriend.x = 1460;
+						boyfriend.y = 531;
+						dad.x = -31;
+						dad.y = 408;
 						//gf.visible = false;
 					case 'attic':
 						gf.x = 673;

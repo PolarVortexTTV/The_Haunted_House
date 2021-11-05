@@ -640,11 +640,11 @@ class Stage
 				}
 				case 'shadowboxing':
 				{
-					camZoom = 0.7;
+					camZoom = 0.55;
 					var bg:FlxSprite = new FlxSprite(-600, -200).loadGraphic(Paths.image('other/shadowboxing', 'shared'));
 					bg.antialiasing = FlxG.save.data.antialiasing;
 					bg.scrollFactor.set(0.9, 0.9);
-					bg.scale.set(2, 2);
+					bg.scale.set(1.5, 1.5);
 					bg.active = false;
 					swagBacks['bg'] = bg;
 					toAdd.push(bg);

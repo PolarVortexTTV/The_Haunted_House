@@ -56,7 +56,7 @@ class AnimationDebug extends FlxState
 				case 'obama':
 					dad.scale.set(5, 5);
 				case 'matt':
-					dad.scale.set(1.5, 1.5);
+					dad.scale.set(1.25, 1.25);
 			}
 			add(dad);
 
